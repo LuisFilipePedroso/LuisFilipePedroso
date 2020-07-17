@@ -1,7 +1,5 @@
 ![My logo](https://raw.githubusercontent.com/LuisFilipePedroso/LuisFilipePedroso/master/Logo%20LF%20-%20horizontal%20-%20Fundo%20Claro.png)
 
-# Luis Filipe Pedroso
-
 Front-end Developr @Bullcode
 
 
