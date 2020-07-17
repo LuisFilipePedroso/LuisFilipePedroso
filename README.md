@@ -5,10 +5,11 @@ Front-end Developr @Bullcode
 
 [![Twitter Badge](https://img.shields.io/badge/-@luiiisfilipee-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/luiiisfilipee)](https://twitter.com/luiiisfilipee) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Filipe%20Pedroso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfilipe42/)](https://www.linkedin.com/in/luisfilipe42/)
+[![Youtube Badge](https://img.shields.io/badge/-Luis%20Filipe%20Pedroso-6633cc?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/channel/UCX9otLxCQzLN0CrW6CKQCHg//)](https://www.youtube.com/channel/UCX9otLxCQzLN0CrW6CKQCHg/)
 
-- 🔭 I’m currently working at Bullcode
-- 🌱 I’m currently learning more about React and React Native. I'm also learning more about software architecture and things like DDD and Data Map Pattern.
-- 📫 How to reach me:
+Enthusiast of the best web & mobile development technologies.
+
+I 
 
 <!--
 **LuisFilipePedroso/LuisFilipePedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
