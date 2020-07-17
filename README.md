@@ -8,10 +8,10 @@ Front-end Developr @Bullcode
 [![Youtube Badge](https://img.shields.io/badge/-Luis%20Filipe%20Pedroso-0E035D?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCX9otLxCQzLN0CrW6CKQCHg//)](https://www.youtube.com/channel/UCX9otLxCQzLN0CrW6CKQCHg/)
 
 Enthusiast of the best web & mobile development technologies.
-
-I am always trying to be better in what I'm doing. 
+<br/>
+I am always trying to be better in what I'm doing. \n
 Actually, I'm learning more about software architecture and design. 
-
+<br/>
 I also love music and finances. 
-
+<br/>
 "You can only understand the future, looking the past" - Ray Dalio.
