@@ -10,6 +10,7 @@ Front-end Developr @Bullcode
 Enthusiast of the best web & mobile development technologies.
 <br/><br/>
 I am always trying to be better in what I'm doing.
+<br/><br/>
 Actually, I'm learning more about software architecture and design. 
 <br/><br/>
 I also love music and finances. 
