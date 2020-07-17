@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Luis and I'm actually a Front end Developer. 
+
+- 🔭 I’m currently working at Bullcode
+- 🌱 I’m currently learning more about React and React Native. I'm also learning more about software architecture and things like DDD and Data Map Pattern.
+- 📫 How to reach me:
+
+![Optional Text](./Logo LF - horizontal - Fundo Claro.png)
+
 <!--
 **LuisFilipePedroso/LuisFilipePedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
