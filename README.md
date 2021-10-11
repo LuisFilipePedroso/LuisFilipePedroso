@@ -1,6 +1,6 @@
 ![My logo](https://raw.githubusercontent.com/LuisFilipePedroso/LuisFilipePedroso/master/Logo%20LF%20-%20horizontal%20-%20Fundo%20Claro.png)
 
-Front-end Developer @TradersClub
+Founder @dogcode-dev
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@luiiisfilipee-0E035D?style=flat-square&labelColor=0E035D&logo=twitter&logoColor=white&link=https://twitter.com/luiiisfilipee)](https://twitter.com/luiiisfilipee) 
