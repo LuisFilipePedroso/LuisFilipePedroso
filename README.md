@@ -11,25 +11,25 @@ Enthusiast of the best web & mobile development technologies.
 <br/>
 I am always trying to be better in what I'm doing.
 <br/><br/>
-Currently, I'm working at TC, a fintech based in São Paulo - Brazil and helping the Brazilian Community of Developers with my YoutubeChannel 
-My Tech Stack is related to Frontend but I'm also have backend experiences.
-
-ReactJS - 4yrs
-React Native - 3yrs
-Styled Components - 4yrs
-GraphQl - 2yrs
-Relay Modern - 1yr
-Apolo - 1yr
-React Query - 1yr
-Zustand - 1yr
-Redux - 4yrs
-NodeJS - 4yrs
-PrismaORM - 1yr
-TypeORM - 1yr
-
-
-Furthermore, I'm studying Web3 and Criptocurrency. 
-Wanna talk? Reach me out at Twitter.
+Currently, I'm working at TC, a fintech based in São Paulo - Brazil and helping the Brazilian Community of Developers with my Youtube Channel<br />
+My Tech Stack is related to Frontend but I'm also have backend experiences.<br />
+<br />
+ReactJS - 4yrs<br />
+React Native - 3yrs<br />
+Styled Components - 4yrs<br />
+GraphQl - 2yrs<br />
+Relay Modern - 1yr<br />
+Apolo - 1yr<br />
+React Query - 1yr<br />
+Zustand - 1yr<br />
+Redux - 4yrs<br />
+NodeJS - 4yrs<br />
+PrismaORM - 1yr<br />
+TypeORM - 1yr<br />
+<br />
+<br />
+Furthermore, I'm studying Web3 and Criptocurrency. <br />
+Wanna talk? Reach me out at Twitter.<br />
 
 <br/><br/>
 I also love music and finances. 
