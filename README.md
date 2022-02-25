@@ -9,10 +9,10 @@ Founder @dogcode-dev
 
 Enthusiast of the best web & mobile development technologies.
 <br/>
-I am always trying to be better in what I'm doing.
+I am always trying to be better at what I'm doing.
 <br/><br/>
-Currently, I'm working at TC, a fintech based in São Paulo - Brazil and helping the Brazilian Community of Developers with my Youtube Channel<br />
-My Tech Stack is related to Frontend but I'm also have backend experiences.<br />
+Currently, I'm working at TC, a fintech based in São Paulo - Brazil, and helping the Brazilian Community of Developers with my Youtube Channel<br />
+My Tech Stack is related to Frontend but I also have backend experience.<br />
 <br />
 ReactJS - 4yrs<br />
 React Native - 3yrs<br />
@@ -28,7 +28,7 @@ PrismaORM - 1yr<br />
 TypeORM - 1yr<br />
 <br />
 <br />
-Furthermore, I'm studying Web3 and Criptocurrency. <br />
+Furthermore, I'm studying Web3 and Cryptocurrency. <br />
 Wanna talk? Reach me out at Twitter.<br />
 
 <br/><br/>
