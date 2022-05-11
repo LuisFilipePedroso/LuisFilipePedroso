@@ -1,37 +1,52 @@
-![My logo](https://raw.githubusercontent.com/LuisFilipePedroso/LuisFilipePedroso/master/Logo%20LF%20-%20horizontal%20-%20Fundo%20Claro.png)
 
-Founder @dogcode-dev
+<h1 align="left">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Luis!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipepedroso&color=blueviolet" alt="Profile views" /> 
+</p>
 
+- 🔭  I’m currently working at [TC](https://tc.com.br/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0E035D?style=flat-square&labelColor=0E035D&logo=twitter&logoColor=white&link=https://twitter.com/luisfpedroso)](https://twitter.com/luiiisfilipee) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0E035D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisfilipe42/)](https://www.linkedin.com/in/luisfilipe42/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-0E035D?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCX9otLxCQzLN0CrW6CKQCHg//)](https://www.youtube.com/channel/dogcodedev/)
+- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, GraphQl**
 
-Enthusiast of the best web & mobile development technologies.
-<br/>
-I am always trying to be better at what I'm doing.
-<br/><br/>
-Currently, I'm working at TC, a fintech based in São Paulo - Brazil, and helping the Brazilian Community of Developers with my Youtube Channel<br />
-My Tech Stack is related to Frontend but I also have backend experience.<br />
-<br />
-ReactJS - 4yrs<br />
-React Native - 3yrs<br />
-Styled Components - 4yrs<br />
-GraphQl - 2yrs<br />
-Relay Modern - 1yr<br />
-Apolo - 1yr<br />
-React Query - 1yr<br />
-Zustand - 1yr<br />
-Redux - 4yrs<br />
-NodeJS - 4yrs<br />
-PrismaORM - 1yr<br />
-TypeORM - 1yr<br />
-<br />
-<br />
-Furthermore, I'm studying Web3 and Cryptocurrency. <br />
-Wanna talk? Reach me out at Twitter.<br />
+- 💬  Ask me about **ReactJS, React Native, Typescript**
 
-<br/><br/>
-I also love music and finances. 
-<br/><br/>
-"You can only understand the future, looking the past" - Ray Dalio.
+- 🚀  Reach me at [Twitter](https://twitter.com/luisfpedroso)
+
+- 🚲 Fun fact: I like to go around with my bike and make food
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luisfilipepedroso&show_icons=true&theme=nightowl" alt="luis's stats"/>
+</p>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/dogcode.dev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-dogcode.dev-05122A?style=flat&logo=instagram" alt="instagram dogcode"/>
+</a>
+<a href="https://linkedin.com/in/luisfilipe42" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-luisfilipepedroso-05122A?style=flat&logo=linkedin" alt="luisfilipepedroso"/>
+</a>
+<a href="https://youtube.com/dogcodedev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-dogcodedev-05122A?style=flat&logo=youtube" alt="youtube dogcode"/>
+</a>
+</p>
