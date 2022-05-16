@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipepedroso&color=blueviolet" alt="Profile views" /> 
 </p>
 
+- 🏫 CS Degree by IFC - Instituto Federal Catarinense
+
 - 🔭  I’m currently working at [TC](https://tc.com.br/)
 
 - 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, GraphQl**
