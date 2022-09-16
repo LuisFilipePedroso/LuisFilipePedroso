@@ -5,7 +5,7 @@
 
 - 🏫 CS Degree by IFC - Instituto Federal Catarinense
 
-- 🔭  I’m currently working at [TC](https://tc.com.br/)
+- 🔭  I’m currently working at [Fueled](https://fueled.com/)
 
 - 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, GraphQl**
 
