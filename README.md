@@ -28,9 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
