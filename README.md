@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipepedroso&color=blueviolet" alt="Profile views" /> 
 </p>
 
-- 🏫 CS Degree by IFC - Instituto Federal Catarinense
+- 🏫 CS Degree by Instituto Federal Catarinense
 
 - 🔭  I’m currently working at [Fueled](https://fueled.com/)
 
@@ -42,13 +42,10 @@
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/dogcode.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dogcode.dev-05122A?style=flat&logo=instagram" alt="instagram dogcode"/>
-</a>
-<a href="https://linkedin.com/in/luisfilipe42" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luisfilipepedroso-05122A?style=flat&logo=linkedin" alt="luisfilipepedroso"/>
-</a>
-<a href="https://youtube.com/dogcodedev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dogcodedev-05122A?style=flat&logo=youtube" alt="youtube dogcode"/>
-</a>
+  <a href="https://linkedin.com/in/luisfilipe42" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-luisfilipepedroso-05122A?style=flat&logo=linkedin" alt="luisfilipepedroso"/>
+  </a>
+  <a href="https://youtube.com/dogcodedev" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-dogcodedev-05122A?style=flat&logo=youtube" alt="youtube dogcode"/>
+  </a>
 </p>
