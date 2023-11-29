@@ -13,7 +13,7 @@
 
 - 🚀  Reach me at [Twitter](https://twitter.com/luisfpedroso)
 
-- 🚲 Fun fact: I like to go around with my bike and make food
+- 🚲 Fun fact: At my free time, I'm a cyclist and a swimmer enthusiastic
 
 <br>
 
