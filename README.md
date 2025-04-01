@@ -7,7 +7,7 @@
 
 - 🔭  I’m currently working at [HiHello](https://hihello.com/)
 
-- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, GraphQl**
+- 🌱  I’m always studying **JavaScript, ReactJS, React Native, Swift, TypeScript, NodeJS, GraphQl**
 
 - 💬  Ask me about **ReactJS, React Native, Typescript**
 
