@@ -11,7 +11,7 @@
 
 - 💬  Ask me about **ReactJS, React Native, Typescript**
 
-- 🚀  Reach me at [Twitter](https://twitter.com/luisfpedroso)
+- 🚀  Reach out to me at [Twitter](https://twitter.com/luisfpedroso)
 
 - 🚲 Fun fact: At my free time, I'm a cyclist and a swimmer enthusiastic
 
