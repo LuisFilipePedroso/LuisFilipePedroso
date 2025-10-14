@@ -1,49 +1,33 @@
+# Hi there, I'm Luis Filipe Pedroso 👋
 
-<h1 align="left">Hey There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Luis!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipepedroso&color=blueviolet" alt="Profile views" /> 
-</p>
+### 🚀 About Me
+I'm a passionate Mobile Engineer specializing in building high-quality, performant mobile applications. Currently crafting exceptional user experiences at HiHello, where our app has been recognized for **Best Usability on G2**.
 
-- 🏫 CS Degree by Instituto Federal Catarinense
+- 🎓 CS Degree from Instituto Federal Catarinense
+- 🔨 Building with React Native, Swift, and TypeScript
+- ✍️ Writing about software engineering on [DEV.to](https://dev.to/luisfpedroso)
 
-- 🔭  I’m currently working at [HiHello](https://hihello.com/)
+### 💻 Tech Stack
 
-- 🌱  I’m always studying **JavaScript, ReactJS, React Native, Swift, TypeScript, NodeJS, GraphQl, Swift**
+**Mobile:** React Native · Swift · SwiftUI  
+**Frontend:** React · TypeScript · JavaScript  
+**Backend:** Node.js · GraphQL  
+**Tools:** Neovim · Git · Xcode
 
-- 💬  Ask me about **ReactJS, React Native, Typescript**
+### 📝 Latest Blog Posts
+- [Mastering Dependency Injection: Enhancing Code Modularity and Maintainability](https://dev.to/luisfpedroso/mastering-dependency-injection-enhancing-code-modularity-and-maintainability-m6g)
+- [Understanding Hash Tables: The Backbone of Efficient Data Storage](https://dev.to/luisfpedroso/understanding-hash-tables-the-backbone-of-efficient-data-storage-25el)
+- [Master the Art of Software Testing with F.I.R.S.T Principles](https://dev.to/luisfpedroso/master-the-art-of-software-testing-with-first-principles-18im)
 
-- 🚀  Reach out to me at [Twitter](https://twitter.com/luisfpedroso)
+### Recent Projects
 
-- 🚲 Fun fact: At my free time, I'm a cyclist and a swimmer enthusiastic
+**[Lien - Vocabulary Bridge](https://apps.apple.com/us/app/lien-vocabulary-bridge/id6742116105)** - iOS app for vocabulary learning (Swift, SwiftUI)
 
-<br>
+**[CryptoApp](https://github.com/LuisFilipePedroso/CryptoApp)** - Track cryptocurrency prices and manage your portfolio (Swift, SwiftUI)
 
-## 🛠 &nbsp;Tech Stack
+### 🔗 Connect With Me
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luisfilipepedroso&show_icons=true&theme=nightowl" alt="luis's stats"/>
-</p>
-
-##
-
-<p align="center" style="background:blue">
-  <a href="https://linkedin.com/in/luisfilipe42" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-luisfilipepedroso-05122A?style=flat&logo=linkedin" alt="luisfilipepedroso"/>
-  </a>
-  <a href="https://youtube.com/dogcodedev" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-dogcodedev-05122A?style=flat&logo=youtube" alt="youtube dogcode"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfilipe42/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luisfpedroso)
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/luisfpedroso)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://luisfpedroso.com)
