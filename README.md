@@ -12,7 +12,7 @@ I'm a passionate Mobile Engineer specializing in building high-quality, performa
 **Mobile:** React Native · Swift · SwiftUI  
 **Frontend:** React · TypeScript · JavaScript  
 **Backend:** Node.js · GraphQL  
-**Tools:** Neovim · Git · Xcode
+**Tools:** Neovim · Tmux
 
 ### 📝 Latest Blog Posts
 - [Mastering Dependency Injection: Enhancing Code Modularity and Maintainability](https://dev.to/luisfpedroso/mastering-dependency-injection-enhancing-code-modularity-and-maintainability-m6g)
